@@ -28,7 +28,3 @@ The script trains the model ($\text{Price} = (m \times \text{Area}) + c$) and ev
 
 *Interpretation: The model explains roughly 65% of the price variance. For every 1 unit increase in area, the price increases by $456.78.*
 
-## Future Work
-
-* Implement **Multiple Linear Regression** by adding features like `stories` and `bathrooms`.
-* Handle categorical variables (e.g., `furnishingstatus`) using One-Hot Encoding.
